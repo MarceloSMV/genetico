@@ -99,7 +99,7 @@ deactivate
 ## Estructura del proyecto
 
 ```
-E:\Proyectos\genetico\
+genetico\
 ├── main.py                     # Script principal (orquesta todo el proceso)
 ├── requirements.txt            # Dependencias del proyecto
 ├── RUN.md                      # Este archivo
