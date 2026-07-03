@@ -1,0 +1,27 @@
+# Entorno virtual
+venv/
+.venv/
+env/
+
+# Cachés y bytecode de Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+
+# Resultados generados por el script (gráficos, etc.)
+output/
+
+# Configuración local de Claude Code
+.claude/
+
+# Configuración de editores/IDEs
+.vscode/
+.idea/
+
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
+
+# Variables de entorno locales
+.env
